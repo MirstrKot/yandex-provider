@@ -1,7 +1,7 @@
 {
-    "name": "geocoder-php/yandex-provider",
+    "name": "MirstrKot/yandex-provider",
     "type": "library",
-    "description": "Geocoder Yandex adapter",
+    "description": "Geocoder Yandex adapter fork",
     "keywords": [],
     "homepage": "http://geocoder-php.org/Geocoder/",
     "license": "MIT",
